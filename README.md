@@ -163,7 +163,7 @@ mongodb://username:password@localhost:27017/Nightscout
 
    ![](screenshots/PythonInstallOptions.png)
 
-1. Install Node.js
+1. Install Node.js (If needed please use the latest LTS setup v20.11.1, v21.7.1+ is unsupported currently)
 
    ![](screenshots/NodeInstallOptions.png)
 
